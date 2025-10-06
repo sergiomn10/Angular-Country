@@ -15,6 +15,14 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 - Tailwind and DaisyUI
 - Routes File per Feature / Module
 - Lazy Loading of Route Modules
+- Resources such as:
+  - Resources
+  - rxResources
+- Signals
+- Services
+- Component Reuse
+- http Requests
+- RXJS Operators
 
 
 ## Development server
