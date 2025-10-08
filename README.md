@@ -23,6 +23,11 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 - Component Reuse
 - http Requests
 - RXJS Operators
+- Caché
+- Router
+- QueryParameters
+- Configurations
+- Debounce
 
 
 ## Development server
